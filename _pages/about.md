@@ -2,7 +2,7 @@
 title: "About"
 layout: page-sidebar
 permalink: "/about.html"
-image: "/assets/images/screenshot.jpg"
-comments: true
+image: "https://1.bp.blogspot.com/-g2jX1z4qJVk/YWUFiPdWdpI/AAAAAAAAAAU/nQYJBlfcWD8MPAyO3xCdanlRzMvFU33nACLcBGAsYHQ/w300/Mimbar%2BMinang.png"
+comments: false
 ---
-Made with <i class="fa fa-heart text-danger"></i> by Sal [@wowthemesnet](https://www.wowthemes.net/category/free-themes-templates/).
+Indonesiana adalah blog publik milik Mimbar Minang yang berfungsi ruang publik menulis reportase, berbagi ide, pendapat, pengalaman serta menayangkan karya fiksi dan fotografi.
