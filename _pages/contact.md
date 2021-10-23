@@ -3,7 +3,8 @@ title: "Contact"
 permalink: "/contact.html"
 ---
 
-<form action="https://formspree.io/{{site.email}}" method="POST">    
+<!--<form action="https://formspree.io/{{site.email}}" method="POST">-->
+<form action="https://formspree.io/f/mgerbnjk" method="POST">
 <p class="mb-4">Anda dapat mengirimkan pesan kepada redaksi {{site.name}} melalui kotak pesan berikut. Kami akan membalas sesegera mungkin!</p>
 <div class="form-group row">
 <div class="col-md-6">
